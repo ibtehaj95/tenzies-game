@@ -1,3 +1,9 @@
+Developed a game called "Tenzies", where the player attempts to match all the shown dice by holding their values and let others change by pressing "Roll".
+
+The game can also be enjoyed on most phones (tested on Firefox and Chrome).
+
+This game was a part of the ReactJS tutorial course given by Bob Zoller on the Free Code Camp YouTube channel.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
