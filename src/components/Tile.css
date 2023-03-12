@@ -1,0 +1,18 @@
+.tile{
+    font-size: 200%;
+    font-weight: 500;
+    box-shadow: 2px 2px 3px grey;
+    margin: 2%;
+    padding: 2% 4%;
+    border-radius: 10%;
+}
+
+.tile-deselect{
+    background-color: white;
+    border: 1px solid white;
+}
+
+.tile-select{
+    background-color: greenyellow;
+    border: 1px solid greenyellow;
+}

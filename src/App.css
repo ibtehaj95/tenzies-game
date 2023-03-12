@@ -1,0 +1,12 @@
+*{
+  box-sizing: border-box;
+}
+
+.App{
+  background-color: #0B2434;
+  color: white;
+  height: 100vh;
+  width: 500px;
+  display: flex;
+  margin: auto;
+}

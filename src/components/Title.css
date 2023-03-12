@@ -1,0 +1,17 @@
+.titletitle{
+    font-size: 200%;
+    font-weight: 500;
+    margin: 2% 0%;
+    text-align: center;
+}
+
+.title-desc{
+    font-size: 110%;
+    text-align: center;
+    font-size: 300;
+    margin: 0% 10%;
+}
+
+.tile:hover{
+    cursor: pointer;
+}
